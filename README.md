@@ -46,6 +46,7 @@ The project required processing live webcam input on the resource-constrained Ra
 * Explaining the results to visitors with different technical backgrounds
 
 3D-Printed Enclosure
+
 I designed and 3D-printed a custom enclosure to organize and protect the electronics while supporting the webcam above the demonstration area. The design considered component layout, camera visibility, accessibility, and stability.
 
 Public Demonstration
